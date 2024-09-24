@@ -1,0 +1,13 @@
+name: ml-ci-cd-demo
+dependencies:
+  - python=3.6
+  - pandas=0.23.1
+  - numpy=1.14.3
+  - matplotlib=2.2.2
+  - scikit-learn=0.19.1
+  - jupyter=1.0.0
+  - nose=1.3.7
+  - pip:
+    - tensorflow==1.7.0
+    - google-api-python-client==1.6.7
+    - tensorflow-tensorboard==1.5.1 
