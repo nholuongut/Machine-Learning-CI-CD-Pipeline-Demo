@@ -55,9 +55,11 @@ As manual deployments is not a supported feature in TravisCI, we created a worka
   - [Source](https://github.com/nholuongut/Machine-Learning-CI-CD-Pipeline-Demo)
   - [Demo](https://ml-ci-cd-demo-server.herokuapp.com/)
 
-[Contact an Author]
-* [Name: Nho Luong]
+### [Contact an Author]
+* [Name: nho Luong]
 * [Skype](luongutnho_skype)
 * [Github](https://github.com/nholuongut/)
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
-* [Email Address](luongutnho@hotmail.com)
+* [Email Address](luongutnho@hotmail.com) 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
